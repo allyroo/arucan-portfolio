@@ -39,14 +39,14 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    'I am a front-end-leaning full-stack developer and self-development junkie based in Phoenix, AZ on the lookout for work opportunities.'}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi neque, ipsa animi maiores repellendu distinctioaperiam earum dolor voluptatum consequatur blanditiis inventore debitis fuga numquam voluptate architecto itaque molestiae.'}
+                    "I’ve been dabbling in web design and front-end work since I was 13. I found myself pouring hours into pimping out my Myspace with HTML and Adobe Photoshop, eventually offering my time to customize my friend's pages. Experimenting to execute the vision I had for each page design was a hobby I found myself losing time engaging in. During my university years, I pursued my other passion for psychology, namely behavior change and the ability one is able to change their lives through their health and habits. After over 7 years in the industry, I reconnected with my love for innovative engineering by taking a leap and devoting my time to building upon my programming skills. I am currently focused on Python, Javascript, React, and Flask. I'm a go-getter and always hungry to learn."}
                 </p>
                 <p className="about-wrapper__info-text">
-                  {paragraphThree || 'Lorem ipsum dolor sit, amet consectetur adipisicing elit.'}
+                  {paragraphThree || "In my free time, you can find me outdoors hiking, climbing, or playing tennis. Inside, I'm reading up on the latest health articles or playing video games. I'm currently training towards running my first marathon!"}
                 </p>
                 {resume && (
                   <span className="d-flex mt-3">
