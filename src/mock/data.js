@@ -46,12 +46,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'CRM.gif',
+    title: 'Sample Title',
+    info: 'Sample Info',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/Raenllanthos/CRMMockup', // if no repo, the button will not show up
   },
 ];
 
