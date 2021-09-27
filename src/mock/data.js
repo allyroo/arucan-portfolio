@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'CRM.gif',
+    img: 'project.jpg',
     title: 'Sample Title',
     info: 'Sample INfo',
     info2: '',
