@@ -30,10 +30,19 @@ export const projectsData = [
     id: nanoid(),
     img: 'superbloom.png',
     title: 'Superbloom',
-    info: 'A self-development React application. Aimed to solve a gap I observed for the user experience in the Noom app as a health coach. Features a dashboard where one is able to track a habit they are building and create journal entries. ',
+    info: 'A work in progress self-development React application. As a Noom health coach, I aimed to solve a gap I observed in the user experience. Features a dashboard where one is able to track a particular habit they are building and create journal entries to document their journey. ',
     info2: '',
     url: '',
     repo: 'https://github.com/allyroo/SuperbloomReactApp', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'superbloomAPI.png',
+    title: 'Superbloom API',
+    info: 'A Flask RESTful API built to support the Superbloom app. Data entries were manually inputted through Insomnia and into an online PostGRESQL database (ElephantSQL).',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/allyroo/SuperbloomAPI', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
