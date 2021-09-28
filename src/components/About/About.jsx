@@ -39,11 +39,11 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    "I am a front-end-leaning full-stack developer and psychology enthusiast based in Scottsdale, AZ. I’ve been dabbling in web design and front-end work since I was 13, pouring hours of my time into pimping out me and my friends' Myspaces. I was passionate about imagining a layout and experimenting to execute the vision I had for each page design. During my time in university, I pursued my other passion for psychology, namely behavior change and the ability one has to change their lives through their health and habits. After over 7 years in the industry, I reconnected with my love for innovative engineering by taking a leap and devoting my time to building upon my programming skills. I am currently focused on Javascript and React. I'm a go-getter and always hungry to learn."}
+                    "I am a front-end-leaning full-stack developer and psychology enthusiast currently based in Scottsdale, AZ. I’ve been dabbling in web design and front-end work since I was 13, pouring hours of my time into pimping out me and my friends' Myspaces. I am passionate about building design-oriented applications and experimenting to execute projects.  After pursuing my degree in Psychology, I reconnected with my love for innovative engineering. I hope to find opportunities where I can bridge both of my passions in any form."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    "Skills include Python, JavaScript, HTML5, CSS3, Flask, React.js, Node.js, jQuery, Material-UI, PostgreSQL, Bootstrap, JSON, Firebase, Gatsby, Heroku, Git, and Adobe Photoshop."}
+                    "I'm a go-getter and always hungry to learn. I am currently focused on Javascript and React. Skills include Python, JavaScript, HTML5, CSS3, Flask, React.js, Node.js, jQuery, Material-UI, PostgreSQL, Bootstrap, JSON, Firebase, Gatsby, Heroku, Git, and Adobe Photoshop."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphThree || "In my free time, you can find me outdoors hiking, climbing, or playing tennis. Inside, I'm reading up on the latest health articles or playing video games. I'm currently learning to slackline!"}
