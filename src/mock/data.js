@@ -28,30 +28,39 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'CRM.gif',
-    title: 'Sample Title',
-    info: 'Sample INfo',
+    img: 'superbloom.png',
+    title: 'Superbloom',
+    info: 'A self-development React application. Aimed to solve a gap I observed for the user experience in the Noom app as a health coach. Features a dashboard where one is able to track a habit they are building and create journal entries. ',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/allyroo/SuperbloomReactApp', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'reverseRecipe.png',
+    title: 'Reverse Recipes',
+    info: 'A recipe-finding Javascript application featuring TheMealDB API. Type in an ingredient and you will receive recipes based on the item. Modal displays directions, dietary category, and link to video of recipe.',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/allyroo/reverseRecipes', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'weatherApp.png',
+    title: "What's the Weather Like?",
+    info: 'A fun and simple Javascript application featuring the OpenWeather API. Input your desired city and city-specific weather information is displayed on the grid.',
+    info2: '',
+    url: '',
+    repo: 'https://github.com/allyroo/WeatherApp', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'CRM.png',
+    title: 'Totally Real CRM',
+    info: 'A collaborative HTML and CSS customer relationship management site. Updates were made using Github and Git commands.',
     info2: '',
     url: '',
     repo: 'https://github.com/Raenllanthos/CRMMockup', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
 ];
 
@@ -59,7 +68,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'allyse.dev@gmail.com',
 };
 
 // FOOTER DATA
@@ -78,12 +87,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/allyse-arucan-422236b7/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/allyroo',
     },
   ],
 };
