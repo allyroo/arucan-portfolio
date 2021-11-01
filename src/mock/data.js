@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'A work in progress self-development React application. As a Noom health coach, I aimed to solve a gap I observed in the user experience. Features a dashboard where one is able to track a particular habit they are building and create journal entries to document their journey. ',
     info2: '',
     url: '',
-    repo: 'https://github.com/allyroo/SuperbloomReactApp', // if no repo, the button will not show up
+    repo: 'https://github.com/allyroo/Superbloom-2.0', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
