@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Superbloom',
     info: 'A work in progress self-development React application. As a Noom health coach, I aimed to solve a gap I observed in the user experience. Dashboard features a random motivational quote pulled from an API, a SMART goal tracker where one is able to track a particular habit they are building, and a task list to carry out towards building a habit. ',
     info2: '',
-    url: '',
+    url: 'https://distracted-hypatia-7ee718.netlify.app/',
     repo: 'https://github.com/allyroo/Superbloom-2.0', // if no repo, the button will not show up
   },
   {
@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'Reverse Recipes',
     info: 'A recipe-finding Javascript application featuring TheMealDB API. Type in an ingredient and you will receive recipes based on the item. Modal displays directions, dietary category, and link to video of recipe.',
     info2: '',
-    url: '',
+    url: 'https://festive-edison-65e183.netlify.app/',
     repo: 'https://github.com/allyroo/reverseRecipes', // if no repo, the button will not show up
   },
   {
@@ -68,7 +68,7 @@ export const projectsData = [
     title: 'Totally Real CRM',
     info: 'A collaborative HTML and CSS customer relationship management site. Updates were made using Github and Git commands.',
     info2: '',
-    url: '',
+    url: 'https://mystifying-raman-d51f9d.netlify.app/',
     repo: 'https://github.com/Raenllanthos/CRMMockup', // if no repo, the button will not show up
   },
 ];
