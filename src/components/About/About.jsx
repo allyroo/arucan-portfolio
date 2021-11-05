@@ -39,11 +39,11 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    "I am a junior full-stack developer currently based in Scottsdale, AZ.  I am passionate about building design-oriented applications. I seek to find opportunities where I can bridge my passions for psychology, design, and innovative engineering."}
+                    "I am a junior full-stack developer and self-development enthusiast based in Phoenix, AZ.  I am passionate about building design-oriented applications. I seek to find opportunities where I can bridge my passions for psychology, design, and innovative engineering."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
-                    "I'm a go-getter and always hungry to learn. I am currently focused on Javascript and React. Skills include Python, JavaScript, HTML5, CSS3, Flask, React.js, Node.js, jQuery, Material-UI, PostgreSQL, Bootstrap, JSON, Firebase, Gatsby, Heroku, Git, and Adobe Photoshop."}
+                    "Proficient in Python, JavaScript, HTML5, CSS3, Flask, React.js, PostgreSQL, Node.js, jQuery, Material-UI, PostgreSQL, Bootstrap, JSON, Firebase, Gatsby, Git, Figma, and Adobe Photoshop."}
                 </p>
                 {/* <p className="about-wrapper__info-text">
                   {paragraphThree || "In my free time, you can find me outdoors hiking, climbing, or playing tennis. Inside, I'm reading up on the latest health articles or playing video games. I'm currently learning to slackline!"}
@@ -56,7 +56,7 @@ const About = () => {
                       className="cta-btn cta-btn--resume"
                       href={resume}
                     >
-                      Resume
+                      View my Resume
                     </a>
                   </span>
                 )}
