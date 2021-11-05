@@ -59,7 +59,7 @@ export const projectsData = [
     title: "What's the Weather Like?",
     info: 'A fun and simple Javascript application featuring the OpenWeather API. Input your desired city and city-specific weather information is displayed on the grid.',
     info2: '',
-    url: '',
+    url: 'https://distracted-neumann-245e5f.netlify.app/',
     repo: 'https://github.com/allyroo/WeatherApp', // if no repo, the button will not show up
   },
   {

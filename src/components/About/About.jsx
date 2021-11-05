@@ -39,15 +39,15 @@ const About = () => {
               <div className="about-wrapper__info">
                 <p className="about-wrapper__info-text">
                   {paragraphOne ||
-                    "I am a front-end-leaning full-stack developer and psychology enthusiast currently based in Scottsdale, AZ. I’ve been dabbling in web design and front-end work since I was 13, pouring hours of my time into pimping out me and my friends' Myspaces. I am passionate about building design-oriented applications and experimenting to execute projects.  After pursuing my degree in Psychology, I reconnected with my love for innovative engineering. I hope to find opportunities where I can bridge both of my passions in any form."}
+                    "I am a junior full-stack developer currently based in Scottsdale, AZ.  I am passionate about building design-oriented applications. I seek to find opportunities where I can bridge my passion for psychology and innovative engineering."}
                 </p>
                 <p className="about-wrapper__info-text">
                   {paragraphTwo ||
                     "I'm a go-getter and always hungry to learn. I am currently focused on Javascript and React. Skills include Python, JavaScript, HTML5, CSS3, Flask, React.js, Node.js, jQuery, Material-UI, PostgreSQL, Bootstrap, JSON, Firebase, Gatsby, Heroku, Git, and Adobe Photoshop."}
                 </p>
-                <p className="about-wrapper__info-text">
+                {/* <p className="about-wrapper__info-text">
                   {paragraphThree || "In my free time, you can find me outdoors hiking, climbing, or playing tennis. Inside, I'm reading up on the latest health articles or playing video games. I'm currently learning to slackline!"}
-                </p>
+                </p> */}
                 {resume && (
                   <span className="d-flex mt-3">
                     <a

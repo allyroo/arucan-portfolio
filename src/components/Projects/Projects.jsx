@@ -58,17 +58,17 @@ const Projects = () => {
                         Source Code
                       </a>
 
-                      {/* {repo && (
+                      {repo && (
                         <a
                           target="_blank"
                           rel="noopener noreferrer"
                           className="cta-btn text-color-main"
-                          href={repo}
+                          href={url}
                         >
-                          Source Code
+                          See Live
                         </a>
                         
-                      )} */}
+                      )}
                     </div>
                   </Fade>
                 </Col>
